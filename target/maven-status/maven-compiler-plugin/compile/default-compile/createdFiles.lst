@@ -1,0 +1,8 @@
+blockchain/Block.class
+miner/Miner.class
+gateway/Gateway.class
+blockchain/Transaction.class
+network/ClusterManager.class
+Server.class
+blockchain/Blockchain.class
+blockchain/Mempool.class
